@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b34b2e0c-71e0-4a20-94a1-5e2a14fe66c0" name="Changes" comment="jobber med oppgave 2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b34b2e0c-71e0-4a20-94a1-5e2a14fe66c0" name="Changes" comment="Ferdig med oblig1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664382027336</updated>
-      <workItem from="1664448007790" duration="5063000" />
+      <workItem from="1664448007790" duration="5553000" />
     </task>
     <task id="LOCAL−00001" summary="jobber med oppgave 2">
       <created>1664448822600</created>
@@ -59,7 +57,13 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1664448822600</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Ferdig med oblig1">
+      <created>1664453392378</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1664453392378</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,6 +82,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="jobber med oppgave 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="jobber med oppgave 2" />
+    <MESSAGE value="Ferdig med oblig1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ferdig med oblig1" />
   </component>
 </project>
