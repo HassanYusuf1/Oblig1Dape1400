@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b34b2e0c-71e0-4a20-94a1-5e2a14fe66c0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/oblig1/oblig1Oppgave1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oblig1/oblig1Oppgave1.java" afterDir="false" />
+    <list default="true" id="b34b2e0c-71e0-4a20-94a1-5e2a14fe66c0" name="Changes" comment="jobber med oppgave 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +36,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/hassa/IdeaProjects/Oppgaver til introduskjon til klasser og objekter 2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -50,8 +51,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664382027336</updated>
-      <workItem from="1664448007790" duration="524000" />
+      <workItem from="1664448007790" duration="5063000" />
     </task>
+    <task id="LOCAL−00001" summary="jobber med oppgave 2">
+      <created>1664448822600</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1664448822600</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -67,5 +75,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="jobber med oppgave 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="jobber med oppgave 2" />
   </component>
 </project>
