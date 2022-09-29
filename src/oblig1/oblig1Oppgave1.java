@@ -14,12 +14,7 @@ class sirkel{
     public static double areal(double r){
         double areal=Math.PI*Math.pow(r,2);
         return areal;}
-    public static void ut(double r){
-        System.out.println("Areal av sirkel radius 23.5 er "+String.format("%.2f",sirkel.areal(r)));
-        System.out.println("Omkrets av sirkel radius 23.5 er "+String.format("%.2f",sirkel.omkrets(r)));
-        System.out.println("Diameter til sirkel radius 23.5 er "+String.format("%.2f",sirkel.diameter(r)));
 
-    }
 
 
 }
@@ -31,8 +26,9 @@ public class oblig1Oppgave1{
         //Setter en variabel lik en verdi for radius
         double r=23.5;
 
-        sirkel nySirkel=new sirkel();
-        sirkel.ut(r);
+        System.out.println("Areal av sirkel radius 23.5 er "+String.format("%.2f",sirkel.areal(r)));
+        System.out.println("Omkrets av sirkel radius 23.5 er "+String.format("%.2f",sirkel.omkrets(r)));
+        System.out.println("Diameter til sirkel radius 23.5 er "+String.format("%.2f",sirkel.diameter(r)));
 
 
 
