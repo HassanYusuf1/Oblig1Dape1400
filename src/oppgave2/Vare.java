@@ -3,6 +3,7 @@ package oppgave2;
 public class Vare {
     private String navn;
     private int antall;
+
     private double pris;
 
     public Vare (String navn,int antall, double pris){
@@ -14,7 +15,7 @@ public class Vare {
     public String GetNavn(){
         return navn;
     }
-    
+
     public void setNavn(){
         this.navn=navn;
     }

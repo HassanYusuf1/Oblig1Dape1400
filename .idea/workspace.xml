@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b34b2e0c-71e0-4a20-94a1-5e2a14fe66c0" name="Changes" comment="Ferdig med oblig1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oppgave2/Vare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oppgave2/Vare.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
