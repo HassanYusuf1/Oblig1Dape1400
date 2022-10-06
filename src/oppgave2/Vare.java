@@ -14,6 +14,7 @@ public class Vare {
     public String GetNavn(){
         return navn;
     }
+    
     public void setNavn(){
         this.navn=navn;
     }
